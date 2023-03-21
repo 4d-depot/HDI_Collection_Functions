@@ -1,0 +1,1 @@
+Form:C1466.results.val6:=Form:C1466.heteroCollection.includes(New object:C1471("a"; 1; "b"; 2; "c"; 3))
