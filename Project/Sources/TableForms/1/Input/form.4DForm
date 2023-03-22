@@ -674,7 +674,7 @@
 					"iconFrames": 4,
 					"style": "toolbar",
 					"tooltip": ":xliff:SetFontColor",
-					"action": "color?value=brown",
+					"action": "color?value=green",
 					"focusable": false
 				}
 			},

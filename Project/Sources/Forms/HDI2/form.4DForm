@@ -42,7 +42,7 @@
 					"width": 140,
 					"height": 681,
 					"borderRadius": 10,
-					"fill": "#808080",
+					"fill": "#7A7A7A",
 					"stroke": "transparent",
 					"sizingY": "grow"
 				},
@@ -91,9 +91,9 @@
 				},
 				"LB_es": {
 					"type": "listbox",
-					"left": 30,
+					"left": 20,
 					"top": 30,
-					"width": 130,
+					"width": 140,
 					"height": 657,
 					"events": [
 						"onSelectionChange"
@@ -128,9 +128,10 @@
 								"name": "Footer1"
 							},
 							"dataSource": "This:C1470.title",
-							"width": 130,
+							"width": 140,
 							"enterable": false,
-							"resizable": false
+							"resizable": false,
+							"horizontalPadding": 4
 						}
 					]
 				},
@@ -340,7 +341,8 @@
 					"focusable": false,
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingX": "fixed"
+					"sizingX": "fixed",
+					"fill": "transparent"
 				},
 				"Button2": {
 					"type": "button",
@@ -387,7 +389,8 @@
 					"enterable": false,
 					"focusable": false,
 					"hideFocusRing": true,
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"Text8": {
 					"type": "text",
@@ -448,7 +451,8 @@
 					"enterable": false,
 					"focusable": false,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"List Box1": {
 					"type": "listbox",
@@ -699,7 +703,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"countriescsv2": {
 					"type": "input",
@@ -719,7 +724,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button23": {
 					"type": "button",
@@ -864,7 +870,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"countriescsv7": {
 					"type": "input",
@@ -884,7 +891,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button26": {
 					"type": "button",
@@ -1273,7 +1281,8 @@
 						"onDataChange"
 					],
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				}
 			}
 		},
@@ -1382,7 +1391,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"codesample10": {
 					"type": "input",
@@ -1462,7 +1472,8 @@
 					"enterable": false,
 					"focusable": false,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Text10": {
 					"type": "text",
@@ -1493,7 +1504,8 @@
 						"onDataChange"
 					],
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button31": {
 					"type": "button",
@@ -1761,7 +1773,8 @@
 					"enterable": false,
 					"focusable": false,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Text22": {
 					"type": "text",
@@ -1792,7 +1805,8 @@
 						"onDataChange"
 					],
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"codesample15": {
 					"type": "input",
@@ -1892,7 +1906,8 @@
 					"enterable": false,
 					"focusable": false,
 					"borderStyle": "none",
-					"sizingY": "fixed"
+					"sizingY": "fixed",
+					"fill": "transparent"
 				},
 				"Text23": {
 					"type": "text",
@@ -1965,7 +1980,8 @@
 						"onDataChange"
 					],
 					"sizingY": "grow",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"Button1": {
 					"type": "button",
@@ -2159,7 +2175,8 @@
 					"events": [
 						"onDataChange"
 					],
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"codesample17": {
 					"type": "input",
@@ -2390,7 +2407,8 @@
 						"onDataChange"
 					],
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"countriesobj4": {
 					"type": "input",
@@ -2409,7 +2427,8 @@
 						"onDataChange"
 					],
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button28": {
 					"type": "button",
@@ -2674,7 +2693,8 @@
 						"onDataChange"
 					],
 					"sizingY": "fixed",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"countriesobj7": {
 					"type": "input",
@@ -2693,7 +2713,8 @@
 						"onDataChange"
 					],
 					"sizingY": "grow",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"Button34": {
 					"type": "button",
@@ -2830,7 +2851,8 @@
 						"onDataChange"
 					],
 					"sizingY": "grow",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"Text18": {
 					"type": "text",
@@ -3022,7 +3044,8 @@
 						"onDataChange"
 					],
 					"sizingY": "grow",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"countriesobj9": {
 					"type": "input",
@@ -3041,7 +3064,8 @@
 						"onDataChange"
 					],
 					"sizingY": "grow",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"Button11": {
 					"type": "button",
@@ -3238,7 +3262,8 @@
 						"onDataChange"
 					],
 					"sizingY": "grow",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"Button56": {
 					"type": "button",
@@ -3439,7 +3464,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button29": {
 					"type": "button",
@@ -3592,7 +3618,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button38": {
 					"type": "button",
@@ -3888,7 +3915,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button43": {
 					"type": "button",
@@ -4045,7 +4073,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				}
 			}
 		},
@@ -4093,7 +4122,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"Button46": {
 					"type": "button",
@@ -4491,7 +4521,8 @@
 						"onDataChange"
 					],
 					"sizingY": "grow",
-					"borderStyle": "none"
+					"borderStyle": "none",
+					"fill": "transparent"
 				},
 				"Button53": {
 					"type": "button",
@@ -4716,7 +4747,8 @@
 					],
 					"hideFocusRing": true,
 					"borderStyle": "none",
-					"sizingY": "grow"
+					"sizingY": "grow",
+					"fill": "transparent"
 				},
 				"col": {
 					"type": "input",
@@ -4737,7 +4769,8 @@
 					"hideFocusRing": true,
 					"borderStyle": "none",
 					"sizingY": "grow",
-					"method": "ObjectMethods/col.4dm"
+					"method": "ObjectMethods/col.4dm",
+					"fill": "transparent"
 				},
 				"Button59": {
 					"type": "button",
@@ -4787,5 +4820,5 @@
 			"View 1": {}
 		}
 	},
-	"geometryStamp": 4739
+	"geometryStamp": 4741
 }
