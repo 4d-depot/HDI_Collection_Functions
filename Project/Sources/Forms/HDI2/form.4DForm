@@ -4805,6 +4805,33 @@
 					"events": [
 						"onDataChange"
 					]
+				},
+				"codesample62": {
+					"type": "input",
+					"top": 340,
+					"left": 520,
+					"width": 320,
+					"height": 329,
+					"dataSource": "Form:C1466.info.codeSample2",
+					"textAlign": "left",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"styledText": true,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "custom",
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Line29": {
+					"type": "line",
+					"top": 320,
+					"left": 520,
+					"width": 280,
+					"stroke": "#696969"
 				}
 			}
 		}
@@ -4820,6 +4847,5 @@
 			"View 1": {}
 		}
 	},
-	"geometryStamp": 4741,
-	"colorScheme": "light"
+	"geometryStamp": 4790
 }
